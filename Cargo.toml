@@ -1,0 +1,12 @@
+[package]
+name = "marching-buffer"
+version = "0.1.0"
+authors = ["Drake Tetreault <ekardnt@ekardnt.com>"]
+edition = "2018"
+license = "CC0-1.0"
+description = "Marching buffer with resets"
+homepage = "https://crates.io/crates/marching-buffer"
+documentation = "https://docs.rs/marching-buffer"
+repository = "https://github.com/EkardNT/marching-buffers"
+keywords = ["buffer", "marching", "bump", "allocator", "arena"]
+categories = ["data-structures", "memory-management"]
